@@ -1,7 +1,7 @@
 
 ## RRT Motion planner for 7 DOF Manipulator
 
-THis project is part of a [Robotics](https://www.edx.org/course/robotics-2) course by Columbia University
+This project is part of a [Robotics](https://www.edx.org/course/robotics-2) course by Columbia University
  
 In order for the robot end-effector to reach a desired pose without collisions with any obstacles present in its environment we need to implement motion planning. In this project we will code up a Rapidly-exploring Random Tree (RRT) motion planner for the 7-jointed robot arm. This will enable us to interactively maneuver the end-effector to the desired pose collision-free.
 
